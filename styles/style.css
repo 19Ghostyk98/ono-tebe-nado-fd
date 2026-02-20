@@ -51,10 +51,12 @@
   font-style: normal;
   line-height: 1.35;
   font-size: 18px;
-  max-width: 240px;
   margin-left: 2px;
 }
 
+.footer__address {
+  max-width: 240px;
+}
 .address a {
   display: block;
   text-decoration: underline;
