@@ -1,1 +1,1 @@
-https://github.com/19Ghostyk98/ono-tebe-nado-fd
+https://github.com/19Ghostyk98/ono-tebe-nado
