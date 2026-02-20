@@ -218,6 +218,7 @@
   font-weight: 400;
   letter-spacing: 0;
   margin-bottom: 4px;
+  margin-right: 2px;
 }
 
 .lots__look-more-link {
@@ -298,7 +299,7 @@
 }
 
 .footer__menu-list-item {
-  list-style: circle;
+  list-style: none;
 }
 
 .footer__menu-list-item_no-bullit {
